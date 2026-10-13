@@ -6,7 +6,7 @@
 
 | المشروع | الوصف |
 |---------|-------|
-| [Budget Tracker](https://github.com/USERNAME/budget-tracker) | برنامج لتسجيل الدخل والمصروفات من سطر الأوامر |
+| [Budget Tracker](https://github.com/WissemBarkallah/budget-tracker) | برنامج لتسجيل الدخل والمصروفات من سطر الأوامر |
 
 ## ما أتعلمه حالياً
 
